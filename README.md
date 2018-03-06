@@ -1,25 +1,27 @@
-# ReduxSimpleStarter
+# A simple weather app built with React and Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## Prerequisite
 
-### Getting Started
+* Node.js
 
-There are two methods for getting started with this repo.
+## Install
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+### Clone
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+```shell
+clone https://github.com/yihan-us/React-Simple-Weather-App.git
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Install Dependencies
 
+```shell
+npm install
 ```
-> npm install
-> npm start
+
+## Usage
+
+### Start App
+
+```shell
+npm start
 ```
