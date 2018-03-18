@@ -1,4 +1,8 @@
-# A simple weather app built with React and Redux
+# A simple weather app built with React, Redux, and Webpack
+
+## Demo
+
+![react-weather-app](https://github.com/yihan-us/storage/blob/master/react-weather-app.gif?raw=true)
 
 ## Prerequisite
 
@@ -19,6 +23,14 @@ npm install
 ```
 
 ## Usage
+
+### Get API KEY
+
+1. Get API Key from [OpenWeatherMap](http://openweathermap.org/api)
+2. Create `.env` environment variable file and add your API Key:
+  ```
+  API_KEY=YOUR-API-KEY-HERE
+  ```
 
 ### Start App
 
