@@ -2,7 +2,7 @@
 
 ## Demo
 
-![react-weather-app](https://github.com/yihan-us/storage/blob/master/react-weather-app.gif?raw=true)
+![react-weather-app](https://github.com/tonyxu-io/storage/blob/master/react-weather-app.gif?raw=true)
 
 ## Prerequisite
 
