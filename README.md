@@ -13,7 +13,7 @@
 ### Clone
 
 ```shell
-clone https://github.com/yihan-us/React-Simple-Weather-App.git
+clone https://github.com/tonyxu-io/React-Simple-Weather-App.git
 ```
 
 ### Install Dependencies
